@@ -36,7 +36,7 @@ as informações do policy serão as suas, você pode configurar via : http://aw
 }
 ```
 
-### config.jsonnnnn example
+### config.json example
 
 ```
 {
