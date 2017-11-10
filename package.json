@@ -1,0 +1,25 @@
+{
+  "name": "abstractfsexterno",
+  "version": "1.0.0",
+  "description": "Variações de filesystem nodeJS (S3,local)",
+  "main": "app.js",
+  "dependencies": {
+    "s3fs": "^2.5.0"
+  },
+  "devDependencies": {
+    "s3fs": "^2.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusmarquezin/abstractfsexterno.git"
+  },
+  "author": "Matheus M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusmarquezin/abstractfsexterno/issues"
+  },
+  "homepage": "https://github.com/matheusmarquezin/abstractfsexterno#readme"
+}

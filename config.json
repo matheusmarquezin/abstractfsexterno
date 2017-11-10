@@ -1,0 +1,10 @@
+{
+    "servidor" :"LOCAL",
+    "credentials": {
+        "accessKeyId": "you_id_key",
+        "secretAccessKey": "your_secret_access_key"
+    },
+    "bucketPath": "your_bucket",
+    "region": "your_region",
+    "endpoint": "your_end_point"
+}
