@@ -36,6 +36,20 @@ as informações do policy serão as suas, você pode configurar via : http://aw
 }
 ```
 
+### config.jsonnnnn example
+
+```
+{
+    "servidor" :"LOCAL",
+    "credentials": {
+        "accessKeyId": "you_id_key",
+        "secretAccessKey": "your_secret_access_key"
+    },
+    "bucketPath": "your_bucket",
+    "region": "your_region",
+    "endpoint": "your_end_point"
+}
+```
 ## Autor
 
 * [**Matheus Marquezin**](https://github.com/matheusmarquezin)
